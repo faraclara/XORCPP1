@@ -18,7 +18,7 @@ b. Deskript
 Untuk kalimat text “Selamat dan Sukses Ujian Akhir Semester Gasal 2022-2023”
 
 #### Encrypt kalimat
-![](img/1%20encrypt.png)
+![](img/1%20encrypt.PNG)
 
 #### Decrypt kalimat
-![](img/1%20decrypt.png)
+![](img/1%20decrypt.PNG)
